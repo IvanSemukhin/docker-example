@@ -2,7 +2,6 @@
 
 # usage: ./build.sh [password] [tag]
 # example: ./build.sh mySuperPassword v1.5.1
-#          ./build.sh password v2.0.0
 
 # defaults
 PASSWORD="${1:-password}"
